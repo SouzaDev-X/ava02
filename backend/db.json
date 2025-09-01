@@ -1,0 +1,37 @@
+{
+  "chamados": [
+    {
+      "id": 2,
+      "titulo": "Buraco na pista",
+      "descricao": "Avenida Central, em frente à praça",
+      "status": "andamento",
+      "prioridade": "alta",
+      "createdAt": "2025-08-26T08:30:00.000Z"
+    }
+  ],
+  "eventos": [
+    {
+      "id": 1,
+      "nome": "Mutirão de Limpeza",
+      "descricao": "Ação comunitária no bairro A",
+      "data": "2025-09-20",
+      "createdAt": "2025-08-27T09:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "nome": "Oficina de Empregabilidade",
+      "descricao": "Currículo e entrevistas",
+      "data": "2025-09-25",
+      "createdAt": "2025-08-27T10:00:00.000Z"
+    }
+  ],
+  "vagas": [
+    {
+      "id": 1,
+      "titulo": "Auxiliar Administrativo",
+      "descricao": "Exp. com planilhas",
+      "empresa": "Comercial X",
+      "local": "Centro"
+    }
+  ]
+}
