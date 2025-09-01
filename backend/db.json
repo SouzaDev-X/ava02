@@ -4,7 +4,9 @@
     { "id": 2, "titulo": "Buraco na rua São José", "status": "Em andamento" },
     { "id": 3, "titulo": "Coleta atrasada no bairro Novo", "status": "Resolvido" }
   ],
+
   "eventos": [
-    { "id": 1, "nome": "Feira da Cidade", "data": "2025-09-10" }
+    { "id": 1, "nome": "Semana Acadêmica", "descricao": "Palestras e workshops", "data": "2025-09-15" },
+    { "id": 2, "nome": "Hackathon", "descricao": "Maratona de programação", "data": "2025-09-22" }
   ]
 }
