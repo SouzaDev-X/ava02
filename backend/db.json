@@ -1,0 +1,10 @@
+{
+  "chamados": [
+    { "id": 1, "titulo": "Lâmpada queimada na praça central", "status": "Aberto" },
+    { "id": 2, "titulo": "Buraco na rua São José", "status": "Em andamento" },
+    { "id": 3, "titulo": "Coleta atrasada no bairro Novo", "status": "Resolvido" }
+  ],
+  "eventos": [
+    { "id": 1, "nome": "Feira da Cidade", "data": "2025-09-10" }
+  ]
+}
